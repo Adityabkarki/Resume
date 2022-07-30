@@ -1,0 +1,104 @@
+* {
+box-sizing: border-box;
+margin: 0px;
+}
+
+.container {
+    width: 95vw;
+    margin: 0 auto;
+}
+
+.top {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.top-cta {
+    display: flex;
+    justify-content: center;
+}
+
+.top-cta > h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    font-size: 2em;
+    color: #F37171;
+}
+
+.resume {
+    background: -webkit-linear-gradient(#1b1b1b,#99772E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: larger;
+    margin-left: 10px;
+}
+
+.linkedin-icon {
+    display: inline;
+    width: 40px;
+    margin-top: 10px;
+}
+
+.mercado-match {
+    fill: #0a66c2;
+    margin: 0 5px;
+    margin-bottom: 5px;
+}
+
+.linkedin {
+    font-family: 'Libre Baskerville', serif;
+    color: #0a66c2;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.top-desc {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.top-desc > ol > li {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+b.linkedin {
+    margin-left: 0px;
+    font-size: inherit;
+}
+
+b.resume {
+    font-family: 'Libre Baskerville', serif;
+    color: #F37171;
+    background: -webkit-linear-gradient(#F37171,#a88888);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: inherit;
+}
+
+.template {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: larger;
+    background: -webkit-linear-gradient(#1b1b1b,#99772E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: inherit;
+}
+
+.upload {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.upload-button {
+    
+}
+
